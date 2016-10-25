@@ -4,4 +4,10 @@ add some stuff
 
 add some more stuff
 
+<<<<<<< HEAD
 Also add some text locally to create a conflict
+=======
+now add some stuff via github (will have to commit to master too)
+
+blabla
+>>>>>>> 5866561ea4b0333b3fff1a5f5c9b63d9ac743f5b
