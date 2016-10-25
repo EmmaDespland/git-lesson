@@ -3,3 +3,5 @@ test
 add some stuff
 
 add some more stuff
+
+Also add some text locally to create a conflict
